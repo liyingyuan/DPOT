@@ -1,4 +1,4 @@
-Here i uploaded a illustration of DeepParticle method. 
+Here i uploaded a illustration of DPOT method. 
 Below are related articles.
 
 https://doi.org/10.1016/j.physd.2024.134082
